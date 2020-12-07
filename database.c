@@ -1,7 +1,8 @@
 /*
+ /*
  ============================================================================
  Name        : dbReader.c
- Author      : Stavros Mitsoglou
+ Author      : Georg Garxenaj
  Version     :
  Copyright   : Your copyright notice
  Description : A simple program to manage a small database of student
@@ -451,6 +452,10 @@ void help() {
 	return;
 }
 
-
+* database.c
+ *
+ *  Created on: Dec. 2, 2019
+ *      Author: George
+ */
 
 
