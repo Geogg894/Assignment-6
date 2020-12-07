@@ -135,8 +135,6 @@ int main(int argc, char *argv[]) {
 		root_N=addNode_Name(root_N,Record);
 	    root_I=addNode_ID(root_I,Record);
 
-
-
 	}
 
 // Close files once we're done
@@ -431,13 +429,8 @@ void search_ID(bNode *root, int ID)
 
 			}
 
-
-
 }
 
-
-
-// Help
 // prints command list
 
 void help() {
